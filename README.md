@@ -1,2 +1,4 @@
 # learn-riscv
-A Repo in Learning and Practicing Risc-V Assembly Syntax
+My Repo for Practicing and Learning Risc-V Assembly Programming.
+
+## 
